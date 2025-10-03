@@ -1,7 +1,10 @@
-# AI_FINANCE_AGENTZ_001
-How to build AI FINANCE AGENTS, with rapidly advancing AGENTIC TOOLS - like ChatGPT, Anthropic, Perplexity, and Google Gemini.
+# AI_FI!
 
+## Welcome to AI_FINANCE_AGENTZ_001
 
+> How to build AI FINANCE AGENTS, with rapidly advancing AGENTIC TOOLS - like ChatGPT, Anthropic, Perplexity, and Google Gemini.
+
+____
 
 AI tools reflexivity
 
@@ -33,6 +36,7 @@ Low debt
 Conference call homework transcripts 
 CFO forecast. Sets boundaries.
 Exceed expectations 
+miss expectations.
 Zeitgeist of analyst
 Tough questions lower.
 Raise guidance, lower guidance.
@@ -55,3 +59,13 @@ bottom zone of take profits.
 
 buy zone and sell zones
 
+market research 
+thorpugh market examination 
+
+ai stock picking
+
+52 week high 
+
+ANALYSIS, newbie and dropouts.
+
+see WIKI.
