@@ -6,9 +6,11 @@
 
 ____
 
-AI tools reflexivity
+### analytics education 
 
-Charts
+#### topics
+
+AI tools, Charts
 Percent after shutdown rate cut
 Mean return
 Probably performance 
@@ -25,9 +27,7 @@ Quality questions
 6 12 month horizon 
 Sector, sudden slowdown %
 Sudden pop %
-Costco. J&J 
-Spread compression or widening.
-walmart absolute positive return
+Spread compression or widening. absolute positive return
 Robust returns during RECESSION.
 Growth rate to snap
 Growth percent
@@ -60,12 +60,13 @@ bottom zone of take profits.
 buy zone and sell zones
 
 market research 
-thorpugh market examination 
+thorough market examination 
 
 ai stock picking
 
 52 week high 
 
-ANALYSIS, newbie and dropouts.
+top movers list, 
+newbie and dropouts.
 
-see WIKI.
+see WIKI: https://github.com/netcinematics/AI_FINANCE_AGENTZ_001/wiki
